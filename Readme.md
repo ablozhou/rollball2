@@ -9,7 +9,7 @@
 - Visual Studio Community 19+ / Visual Studio Code
 
 # screenshot
-![imgs/screen1.png]
+![screen](imgs/screen1.png)
 # How to play
 Double click the RollBall2.exe.
 
